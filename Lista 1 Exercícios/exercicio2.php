@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Exercício 2 - Subtrair</h1>
-    <form method="POST" action="resposta1.php">
+    <form method="POST" action="resposta2.php">
         <label for="n1">Informe o primeiro número: </label>
         <input type="number" id="n1" name="n1">
         <br>
