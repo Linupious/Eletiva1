@@ -8,10 +8,10 @@
 <body>
     <h1>Exercicio 3 - Aplicar desconto</h1>
     <form method="POST" action="resposta3.php">
-        <label for="valor">Digite o valor do produto: </label>
-        <input type="number" name="valor" id="">
+        <label for="valor_produto">Digite o valor do produto: </label>
+        <input type="number" name="valor_produto" id="valor_produto">
         <br>
         
-        <button type="submit" class="btn btn-primary">Aplicar desconto</button>
+        <button type="submit" class="btn btn-primary">Verificar Desconto</button>
 </body>
 </html>
